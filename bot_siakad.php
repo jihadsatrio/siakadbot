@@ -7,7 +7,6 @@
 
 require_once __DIR__ . '/vendor/autoload.php';
 use jc21\CliTable;
-require('simple_html_dom.php');
 class apigrabber
 {
 	function menu(){
