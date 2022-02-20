@@ -49,5 +49,7 @@
   [2] PHP BOT_SIAKAD.PHP 2 [FACULTY-NAME]
   [3] PHP BOT_SIAKAD.PHP 3 [FACULTY-NAME] [PRODI-NAME] [YEAR] 
       EXAMPLE : php bot_siakad.php 3 fakultas-teknik s1-teknik-mesin 2017
+      <img src="Screenshot_1.png">
 </pre>
+
 
