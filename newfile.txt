@@ -1,0 +1,25 @@
+Array
+(
+    [nipd] => 17051204082
+    [nm_pd] => RIO HENRI SAPUTRO
+    [jk] => Laki - Laki
+    [id_agama] => 1
+    [nm_ibu_kandung] => -Tik Rusmiati Marhaeni
+    [nm_ayah] => Heri Purnomo
+    [tgl_lahir] => 03-03-1993
+    [tmpt_lahir] => SURABAYA
+    [nik] => 3578060303930002
+    [id_stat_mhs] => A
+    [ipk] => 3.65
+    [id_smt] => 20202
+    [sks_smt] => 6
+    [sks_total] => 63
+    [id_sdm] => 63a770ef-059c-4351-8fc4-c4eecf766418
+    [id_sms] => eee0451e-bd6b-4742-9ddc-37443e9727d8
+    [nm_prodi] => S1 Teknik Informatika
+    [pic] => https://siakadu.unesa.ac.id/photo/fotomhs/17051204082.jpg?thumb=100
+    [nm_agama] => Islam
+    [nm_dpa] => Aditya Prapanca, S.T., M.Kom.
+    [nip_dpa] => 197411012003121001
+    [email] => rio.17051204082@mhs.unesa.ac.id
+)
